@@ -2961,6 +2961,11 @@
   "RootNamespace": "RazorFun",
   "Documents": [
     {
+      "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ASP.NET/RazorFun/Views/Shared/foods.cshtml",
+      "TargetPath": "Views\\Shared\\foods.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ASP.NET/RazorFun/Views/Food/food.cshtml",
       "TargetPath": "Views\\Food\\food.cshtml",
       "FileKind": "mvc"
